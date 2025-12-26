@@ -1,4 +1,5 @@
-# Python IT Support Scripts
+# Python Learning Notes
 
-Small Python scripts to practice automation for common IT support tasks
-(log cleanup, simple reports, basic checks).
+Right now I am learning Python basics.  
+Once I complete fundamentals and write useful scripts for IT support,  
+I will add them here instead of dummy projects.
